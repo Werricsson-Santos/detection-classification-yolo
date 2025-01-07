@@ -4,6 +4,8 @@
 
 Neste projeto, vamos rotular uma base de dados e aplicar o treinamento com a rede YOLO. O objetivo é criar uma base de dados personalizada e treinar a rede YOLO para detectar pelo menos duas novas classes, além das classes já previamente treinadas.
 
+##### Obs.: Foi utilizado o YOLOV11 e mantive os tutoriais de outros tipos de predição para futura consulta/estudo.
+
 ---
 
 ### Etapas do Projeto
